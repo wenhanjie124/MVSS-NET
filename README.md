@@ -1,5 +1,5 @@
 # MVSS-NET
-this is application of Mvss-Net
+this is application of Mvss-Net model_code:Tools/MVCNN.py
 
 # Train
 start_train.py
